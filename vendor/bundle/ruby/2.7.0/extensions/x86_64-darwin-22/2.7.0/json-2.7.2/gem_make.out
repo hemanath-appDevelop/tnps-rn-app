@@ -1,0 +1,13 @@
+current directory: /Users/hemanath/tnps-rn-app/tnpsRnApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+/Users/hemanath/.rbenv/versions/2.7.0/bin/ruby -I /Users/hemanath/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20240915-4098-1iq7b5e.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hemanath/tnps-rn-app/tnpsRnApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/hemanath/tnps-rn-app/tnpsRnApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/hemanath/tnps-rn-app/tnpsRnApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" install
